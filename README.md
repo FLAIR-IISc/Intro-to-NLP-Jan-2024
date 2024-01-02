@@ -4,7 +4,7 @@
 
 **Term**: January 2024 – May 2024
 
-**Time**: Tuesdays & Thursdays (11-12:30)
+**Time**: Tuesdays & Thursdays (10-11:30)
 
 **Venue**: CDS 102
 

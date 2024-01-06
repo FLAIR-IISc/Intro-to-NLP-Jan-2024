@@ -80,7 +80,7 @@ The final project constitutes 35% of the overall score, where students—in grou
 ### Reference Books
 
 1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin
-2. Introduction to Natural Language Processing by Jacob Eisenstein 
+2. [Introduction to Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) by Jacob Eisenstein 
 3. Neural Network Methods for Natural Language Processing by Yoav Goldberg
 
 

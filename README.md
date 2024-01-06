@@ -66,6 +66,11 @@ The two exams aim to evaluate the student’s learning acquired through lectures
 
 The final project constitutes 35% of the overall score, where students—in groups of three—get a chance to apply the acquired knowledge for an application of their choice. Projects would typically involve human languages and deep learning. The project includes three milestones: (1) initial proposal (which will require a rough action plan and associated timelines); (2) a mid-term report and (3) a final report.  
 
+### Discussions & (Anonymous) Feedback
+
+We will use Piazza for all discussions on course-related matters. If you have successfully registered for the course, you should have received a part of the Piazza forum. 
+
+If you have any feedback, you can share it (anonymously or otherwise) through this link: http://tinyurl.com/feedback-for-danish
 
 
 ### Teaching Assistants

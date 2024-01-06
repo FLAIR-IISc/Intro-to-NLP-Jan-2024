@@ -18,18 +18,43 @@
 
 
 
-### Course Content
+### Course Schedule
 
-The detailed schedule would be available shortly, 
- tentatively, we plan to cover
-text classification & representation learning (Week 1-2),
-(large & not-so-large) language models (Week 3-6),
-conditioned generation, including machine translation, summarization (Week 7-8),
-multilinguality (Week 9),
-structured prediction and decoding techniques (Week 10-11),
-information extraction (Week 12), and broader societal and ethical implications 
-of language technologies (Week 13-14).
+The course schedule is as follows. This is subject to changes based on student feedback and pace of the instruction. 
 
+
+| Date     | Topic | Comments | 
+| -------- | ------- | ------- | 
+| Jan 9  |  Course introduction   | | 
+| Jan 11 |  Text classification    | In-class quiz to assess pre-requisites  |
+| Jan 16 |  Text classification, word representations   |
+| Jan 18 | Representation learning | Assignment #1 is out (due Feb 2, 16:59) | 
+| Jan 23 | Language models: n-gram models |  | 
+| Jan 25 | Language models contd. |  | 
+| Jan 30 | Neural language models: RNNs  |  | 
+| Feb 1 | Conditioned generation |  | 
+| Feb 6 | Attention & transformers  | Assignment #2 is out (due Feb 23, 16:59) | 
+| Feb 8 | LLMs: pretraining, prompting  |  | 
+| Feb 13 | LLMs: post-training (RLHF, adaptation)  | Project proposals due Feb 13, 16:59 | 
+| Feb 15 | LLMs: scaling laws, applications  |  | 
+| Feb 20 | LLMs: evaluation/benchmarking  |  | 
+| Feb 22  | Structured Prediction: HMMs |  | 
+| Feb 27  | Structured Prediction: HMMs + CRFs | Assignment #3 is out (due Mar 22, 16:59)| 
+| Feb 29  | Structured Prediction: CRFs | | 
+| Mar 5  | Parsing | |
+| Mar 7  | Multilinguality (Guest lecture) | |
+| Mar 12  | Information Extraction & QA | |
+| Mar 14  | Semantics | Project mid-term report due 16:59 |
+| Mar 19  | Fairness & biases | |
+| Mar 21  | Other ethical considerations | |
+| Mar 26  | Interpretability & analysis of models | |
+| Mar 28  | Special topics (e.g., watermarking) | |
+| Apr 2  | External guest lecture | |
+| Apr 4  | External guest lecture | |
+| Apr 9  | — | Poster Session #1 |
+| Apr 11  | — | Poster Session #2 |
+| Apr 16  | — | Final project report due 16:59 |
+| | | | 
 
 ### Course Evaluation
 

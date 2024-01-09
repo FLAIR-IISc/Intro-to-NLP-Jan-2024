@@ -12,11 +12,13 @@
 
 **Outline**: This course is a graduate-level introduction to the field of Natural Language Processing (NLP), which involves building computational systems to handle human languages. We interact with NLP systems on a daily basis—such systems answer the questions we ask (using Google, or other search engines), curate the content we read, autocomplete words we are likely to type, translate text from languages we don’t know, flag content on social media that we might find harmful, etc. Such systems are prominently used in industry as well as academia, especially for analyzing textual data. 
 
-**Expected Outcomes**: The course aspires to equip students with the key ideas to confidently tackle NLP problems. The assignments in the course would enable students to develop, debug and evaluate NLP systems in practice.
-
 **Prerequisites**: The class is intended for graduate students and senior undergraduates. We do not plan to impose any strict requisites on IISc courses that one should have completed to register for this course. However, students are expected to know the basics of linear algebra, probability, calculus, and neural networks. Programming assignments would require proficiency in Python.  
 
 
+
+### Announcements 
+
+- [New] Jan 9, 2024: The quiz to assess the pre-requisites would be held in CDS 102 and CDS 202 during the class hours on Thursday (Jan 11). The quiz will be conducted through google forms, so don't forget to carry your phone or laptop. 
 
 ### Course Schedule
 
@@ -25,7 +27,7 @@ The course schedule is as follows. This is subject to changes based on student f
 
 | Date     | Topic | Comments | 
 | -------- | ------- | ------- | 
-| Jan 9  |  Course introduction   | | 
+| Jan 9  |  [Course introduction](https://www.dropbox.com/scl/fi/a2hga9p0o497x4dtrbcqm/lecture-1.pdf?rlkey=89bfnd4h94s8c25adfctlj5wr&dl=0)   | | 
 | Jan 11 |  Text classification    | In-class quiz to assess pre-requisites  |
 | Jan 16 |  Text classification, word representations   |
 | Jan 18 | Representation learning | Assignment #1 is out (due Feb 2, 16:59) | 

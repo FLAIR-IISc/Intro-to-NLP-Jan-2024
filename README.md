@@ -18,7 +18,7 @@
 
 ### Announcements 
 
-- [New] Jan 9, 2024: The quiz to assess the pre-requisites would be held in CDS 102 and CDS 202 during the class hours on Thursday (Jan 11). The quiz will be conducted through google forms, so don't forget to carry your phone or laptop. 
+- [New] Jan 9, 2024: The quiz to assess the pre-requisites would be held in CDS 102 ~~CDS 202~~ (and if required CDS rooms 419 and 208) during the class hours on Thursday (Jan 11). The quiz will be conducted through google forms, so don't forget to carry your laptop or phone. 
 
 ### Course Schedule
 

@@ -29,7 +29,7 @@ The course schedule is as follows. This is subject to changes based on student f
 | -------- | ------- | ------- | 
 | Jan 9  |  [Course introduction](https://www.dropbox.com/scl/fi/a2hga9p0o497x4dtrbcqm/lecture-1.pdf?rlkey=89bfnd4h94s8c25adfctlj5wr&dl=0)   | | 
 | Jan 11 |  [Text classification](https://www.dropbox.com/scl/fi/du5ng7yrzyueiamgc89t5/lecture-2.pdf?rlkey=8la9vwl7zv382m56yyaf4gyp5&dl=0)    | In-class quiz to assess pre-requisites  |
-| Jan 16 |  Text classification, word representations   |
+| Jan 16 |  [Generative Naive Bayes Classification](https://www.dropbox.com/s/3yiy3yrtz9ofyt4/lecture-3-annotated.pdf?dl=0)  |
 | Jan 18 | Representation learning | Assignment #1 is out (due Feb 2, 16:59) | 
 | Jan 23 | Language models: n-gram models |  | 
 | Jan 25 | Language models contd. |  | 
@@ -70,18 +70,19 @@ The final project constitutes 35% of the overall score, where students—in grou
 
 ### Discussions & (Anonymous) Feedback
 
-We will use Piazza for all discussions on course-related matters. If you have successfully registered for the course, you should have received a part of the Piazza forum. 
+We will use Teams for all discussions on course-related matters. Registered students should have received the joining link/passkey.
 
 If you have any feedback, you can share it (anonymously or otherwise) through this link: http://tinyurl.com/feedback-for-danish
 
 
-### Teaching Assistants
+### Teaching Staff
 
-1. Debarpan Bhattacharya
-2. Kinshuk Vasisht
-3. Navreet Kaur
-4. Nicy Scaria
-5. Rankit Kachroo
+1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM)
+2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM)
+3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM)
+4. Nicy Scaria 
+5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM)
+6. Danish Pruthi (OH: Fridays 10 AM - 11 AM)
 
 
 ### Reference Books

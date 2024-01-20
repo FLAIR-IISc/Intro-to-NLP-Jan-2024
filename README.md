@@ -30,8 +30,8 @@ The course schedule is as follows. This is subject to changes based on student f
 | Date     | Topic  | Reading Material | 
 | -------- | ------- | ------- | 
 | Jan 9  |  [Course introduction](https://www.dropbox.com/scl/fi/a2hga9p0o497x4dtrbcqm/lecture-1.pdf?rlkey=89bfnd4h94s8c25adfctlj5wr&dl=0)   | | 
-| Jan 11 |  [Text classification](https://www.dropbox.com/scl/fi/du5ng7yrzyueiamgc89t5/lecture-2.pdf?rlkey=8la9vwl7zv382m56yyaf4gyp5&dl=0)   + In-class quiz   | [Eisentein Sec 2-2.1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) | 
-| Jan 16 |  [Generative Naive Bayes Classification](https://www.dropbox.com/s/3yiy3yrtz9ofyt4/lecture-3-annotated.pdf?dl=0)  | [Eisentein Sec 2.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J & M Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) |
+| Jan 11 |  [Text classification](https://www.dropbox.com/scl/fi/du5ng7yrzyueiamgc89t5/lecture-2.pdf?rlkey=8la9vwl7zv382m56yyaf4gyp5&dl=0)   + In-class quiz   | [Eisenstein Sec 2-2.1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf) | 
+| Jan 16 |  [Generative Naive Bayes Classification](https://www.dropbox.com/s/3yiy3yrtz9ofyt4/lecture-3-annotated.pdf?dl=0)  | [Eisenstein Sec 2.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J & M Chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf) |
 | Jan 18 | [Discriminative Classifiers & Word Representations](https://www.dropbox.com/scl/fi/z5zrczjblake3bng9hhoq/lecture-4.pdf?rlkey=23avpwnn05d9ecks21mzmo5x1&dl=0) |  Word2Vec: [1](https://arxiv.org/abs/1402.3722), [2](https://arxiv.org/abs/1301.3781); [J & M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) |
 | Jan 23 | Language models: n-gram models  |  |
 | Jan 25 | Language models contd. |  | 
@@ -105,7 +105,7 @@ If you have any feedback, you can share it (anonymously or otherwise) through th
 1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM)
 2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM)
 3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM)
-4. Nicy Scaria 
+4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM)
 5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM)
 6. Danish Pruthi (OH: Fridays 10 AM - 11 AM)
 

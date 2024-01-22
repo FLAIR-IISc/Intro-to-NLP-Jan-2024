@@ -71,7 +71,7 @@ The two exams aim to evaluate the student’s learning acquired through lectures
 
 The course project constitutes 35% of the overall score, where students—in groups of three—get a chance to apply the acquired knowledge for an application of their choice. Projects would typically involve human languages and deep learning. The project includes three milestones: (1) initial proposal (which will require a rough action plan and associated timelines); (2) a mid-term report and (3) a final report.  Towards the end of the course, students would get a chance to showcase their research through poster presentations. 
 
-Each team would get three late days for projects, no extensions will be offered (please don't even ask). 
+Each team would get three late days for projects, no extensions will be offered (please don't even ask). After your late days expire, you can still submit your project but your obtained score would be divided by 2 if submitting after 1 day, and will be divided by 4 if submitting after 2 days. No submissions would be entertained after that.
 
 
 **Important dates**: 
@@ -85,7 +85,7 @@ Each team would get three late days for projects, no extensions will be offered 
 
 The three programming assignments will involve building systems for (1) text classification and learning word representations; (2) language modeling; (3) TBD (possibly machine translation and/or named entity recognition). The assignments will be implemented using interactive Python notebooks intended to run on Google’s Colab infrastructure. This allows students to use GPUs for free and with minimal setup. The notebooks will contain instructions interleaved with code blocks for students to fill in.
 
-These assignments are meant to be solved individually. For a total of three assignments, you would get **three late days**, no extensions will be offered (please don't even ask). 
+These assignments are meant to be solved individually. For a total of three assignments, you would get **three late days**, no extensions will be offered (please don't even ask). There are no restrictions on how the late days can be used, for example, you can use all the three late days for one assignment. If you run out of late days, you can still submit your assignment, but your obtained score would be divided by 2 if submitting after 1 day, and by 4 if submitting after 2 days. No submissions would be entertained after that.
 
 **Important dates**: 
 - Assigment 1 (Out: Jan 22. Due: Feb 6, 16:59)

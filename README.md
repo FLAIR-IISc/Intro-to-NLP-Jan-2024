@@ -18,6 +18,8 @@
 
 ## Announcements 
 
+- Jan 22, 2024: [Assignment #1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) is out now, due on Feb 6, 16:59 IST.
+
 - Jan 20, 2024: The class on Thursday (Jan 25) will happen at EE B-308. 
 
 - Jan 9, 2024: The quiz to assess the pre-requisites would be held in CDS 102 ~~CDS 202~~ (and if required CDS rooms 419 and 208) during the class hours on Thursday (Jan 11). The quiz will be conducted through google forms, so don't forget to carry your laptop or phone. 
@@ -88,7 +90,7 @@ The three programming assignments will involve building systems for (1) text cla
 These assignments are meant to be solved individually. For a total of three assignments, you would get **three late days**, no extensions will be offered (please don't even ask). There are no restrictions on how the late days can be used, for example, you can use all the three late days for one assignment. If you run out of late days, you can still submit your assignment, but your obtained score would be divided by 2 if submitting after 1 day, and by 4 if submitting after 2 days. No submissions would be entertained after that.
 
 **Important dates**: 
-- Assigment 1 (Out: Jan 22. Due: Feb 6, 16:59)
+- [Assigment 1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) (Out: Jan 22. Due: Feb 6, 16:59)
 - Assignment 2 (Out: Feb 6. Due: Feb 23, 16:59)
 - Assignment 3 (Out: Feb 27. Due: Mar 22, 16:59)
 

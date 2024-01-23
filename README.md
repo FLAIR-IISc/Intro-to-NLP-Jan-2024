@@ -104,12 +104,12 @@ If you have any feedback, you can share it (anonymously or otherwise) through th
 
 ## Teaching Staff
 
-1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM)
-2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM)
-3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM)
-4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM)
-5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM)
-6. Danish Pruthi (OH: Fridays 10 AM - 11 AM)
+1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM; Venue: CDS 208)
+2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM; Venue: CDS 208)
+3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM; Venue: CDS 208)
+4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM; Venue: CDS 208)
+5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM; Venue: CDS 208)
+6. Danish Pruthi (OH: Fridays 10 AM - 11 AM; Venue: CDS 401)
 
 
 ## Reference Books

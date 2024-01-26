@@ -38,8 +38,8 @@ The course schedule is as follows. This is subject to changes based on student f
 | Jan 23 | [Word Representations + n-gram models](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ETMHG4KvHHxJhAEZC8m2BYwBUOMyBOoDV7J0Ly3EqpFpsA?e=D8c2Iv) & [3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) |
 | Jan 25 | [LMs + Neural Nets](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZ7lGZ9U63tPjJycu4BDsGgB3WKx05JvCb060BL3UfW4Mw?e=oDxdy3) w/ [annotations](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EQ9zRu8dnoZHhpj80P864gEBqhJlXbM7VphJrAo0apUuDw?e=EdDOZD) | J & M Chapters [3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) & [7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | 
 | Jan 30 | PyTorch Tutorial by TAs  |  | 
-| Feb 1 | Neural LMs |  | 
-| Feb 6 | Attention & transformers  |  | 
+| Feb 1 | No class |  | 
+| Feb 6 | Neural LMs & Attention & transformers  |  | 
 | Feb 8 | LLMs: pretraining, prompting  |  | 
 | Feb 13 | LLMs: post-training (RLHF, adaptation)  | | 
 | Feb 15 | LLMs: scaling laws, applications  |  | 

@@ -37,7 +37,7 @@ The course schedule is as follows. This is subject to changes based on student f
 | Jan 18 | [Discriminative Classifiers & Word Representations](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ETyb-bLUSndOrMSbmaVYAMwB4gCgtjuIwVZJ0mLoRMgnpg?e=dYG5I7) w/ [annotations](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbZA43JrNrFNn8vtlbS6UYwB8glRy40hVehE1NbS04gd_A?e=bhfR7A) |  Word2Vec: [1](https://arxiv.org/abs/1402.3722), [2](https://arxiv.org/abs/1301.3781); [J & M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) |
 | Jan 23 | [Word Representations + n-gram models](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ETMHG4KvHHxJhAEZC8m2BYwBUOMyBOoDV7J0Ly3EqpFpsA?e=D8c2Iv) & [3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) |
 | Jan 25 | [LMs + Neural Nets](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZ7lGZ9U63tPjJycu4BDsGgB3WKx05JvCb060BL3UfW4Mw?e=oDxdy3) w/ [annotations](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EQ9zRu8dnoZHhpj80P864gEBqhJlXbM7VphJrAo0apUuDw?e=EdDOZD) | J & M Chapters [3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) & [7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | 
-| Jan 30 | PyTorch Tutorial by TAs  |  | 
+| Jan 30 | [Tutorial on PyTorch](pytorch_tutorial/pytorch_tutorial.ipynb) |  | 
 | Feb 1 | No class |  | 
 | Feb 6 | Neural LMs & Attention & transformers  |  | 
 | Feb 8 | LLMs: pretraining, prompting  |  | 

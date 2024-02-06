@@ -18,6 +18,8 @@
 
 ## Announcements 
 
+- Feb 6, 2024: [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) is out now, due on Feb 23, 16:59 IST.
+
 - Jan 22, 2024: [Assignment #1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) is out now, due on Feb 6, 16:59 IST.
 
 - Jan 20, 2024: The class on Thursday (Jan 25) will happen at EE B-308. 
@@ -91,7 +93,7 @@ These assignments are meant to be solved individually. For a total of three assi
 
 **Important dates**: 
 - [Assigment 1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) (Out: Jan 22. Due: Feb 6, 16:59)
-- Assignment 2 (Out: Feb 6. Due: Feb 23, 16:59)
+- [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) (Out: Feb 6. Due: Feb 23, 16:59)
 - Assignment 3 (Out: Feb 27. Due: Mar 22, 16:59)
 
 

@@ -18,6 +18,8 @@
 
 ## Announcements 
 
+- Feb 6, 2024: A few broad project directions are [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERDjeyogTFhCkH8SxjByjuEBJ3C6kKChIY1dZSAzjqMFSQ?e=9VdRKL). 
+
 - Feb 6, 2024: [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) is out now, due on Feb 23, 16:59 IST.
 
 - Jan 22, 2024: [Assignment #1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) is out now, due on Feb 6, 16:59 IST.
@@ -76,6 +78,8 @@ The two exams aim to evaluate the student’s learning acquired through lectures
 The course project constitutes 35% of the overall score, where students—in groups of three—get a chance to apply the acquired knowledge for an application of their choice. Projects would typically involve human languages and deep learning. The project includes three milestones: (1) initial proposal (which will require a rough action plan and associated timelines); (2) a mid-term report and (3) a final report.  Towards the end of the course, students would get a chance to showcase their research through poster presentations. 
 
 Each team would get three late days for projects, no extensions will be offered (please don't even ask). After your late days expire, you can still submit your project but your obtained score would be divided by 2 if submitting after 1 day, and will be divided by 4 if submitting after 2 days. No submissions would be entertained after that.
+
+**New:** Some project directions are availabe [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERDjeyogTFhCkH8SxjByjuEBJ3C6kKChIY1dZSAzjqMFSQ?e=9VdRKL). Please note that these directions are only suggestive, students should not limit their explorations to just these directions.
 
 
 **Important dates**: 

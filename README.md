@@ -18,6 +18,8 @@
 
 ## Announcements 
 
+- Feb 11, 2024: Included the [template for the project](project_template).
+
 - Feb 6, 2024: A few broad project directions are [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERDjeyogTFhCkH8SxjByjuEBJ3C6kKChIY1dZSAzjqMFSQ?e=9VdRKL). 
 
 - Feb 6, 2024: [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) is out now, due on Feb 23, 16:59 IST.
@@ -79,8 +81,10 @@ The course project constitutes 35% of the overall score, where students—in gro
 
 Each team would get three late days for projects, no extensions will be offered (please don't even ask). After your late days expire, you can still submit your project but your obtained score would be divided by 2 if submitting after 1 day, and will be divided by 4 if submitting after 2 days. No submissions would be entertained after that.
 
-**New:** Some project directions are availabe [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERDjeyogTFhCkH8SxjByjuEBJ3C6kKChIY1dZSAzjqMFSQ?e=9VdRKL). Please note that these directions are only suggestive, students should not limit their explorations to just these directions.
 
+Some project directions are availabe [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERDjeyogTFhCkH8SxjByjuEBJ3C6kKChIY1dZSAzjqMFSQ?e=9VdRKL). Please note that these directions are only suggestive, students should not limit their explorations to just these directions.
+
+**New:** Included the [template for the project](project_template) that also includes a few guidelines.
 
 **Important dates**: 
 

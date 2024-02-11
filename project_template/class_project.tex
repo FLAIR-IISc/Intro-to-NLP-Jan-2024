@@ -1,0 +1,107 @@
+
+\documentclass{article} % For LaTeX2e
+\usepackage{class_project}
+
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{booktabs}
+
+
+\title{Project Template \& Guidelines}
+
+% Authors must not appear in the submitted version. They should be hidden
+% as long as the \colmfinalcopy macro remains commented out below.
+% Non-anonymous submissions will be rejected without review.
+
+\author{Student A \& Student B \& Student C  \\
+Indian Institute of Science \\ 
+Bengaluru, KA, India \\
+\texttt{\{a,b,c\}@iisc.ac.in} 
+}
+
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to \LaTeX{} to determine where to break
+% the lines. Using \AND forces a linebreak at that point. So, if \LaTeX{}
+% puts 3 of 4 authors names on the first line, and the last on the second
+% line, try using \AND instead of \And before the third author name.
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+
+\colmfinalcopy 
+\begin{document}
+
+
+\maketitle
+
+\begin{abstract}
+An abstract is a short summary of your project. 
+Typically about 200 words, abstracts provides the readers 
+a gist of your work. 
+Abstracts are optional for the project proposal, but 
+you should have one for 
+the mid-term and final report.
+Just by the abstract, the readers should get a sense of 
+the problem your work solves, broad idea about your approach, 
+and the nature of the results it produces.
+\end{abstract}
+
+\section{Introduction}
+
+Introductions should motivate the problem 
+you are working on (e.g., what gap does it fill; why should one care?). 
+They also provide a brief sketch of your (proposed) solution,
+and how it is related to work already done.
+Introductions typically end with a brief summary of contributions. 
+
+Please note that the page-limit is 
+\begin{itemize}
+    \item $3$ pages for the project proposal
+    \item $6$ pages for the mid-term report
+    \item $8$ pages for the final report
+\end{itemize}
+
+The last section on contributions, and the references are not counted towards this page limit.
+
+\section{Related Work}
+
+As the name suggests, this section contains the
+details of past approaches. 
+
+Ideally, you should distinguish how the past work is different 
+from your (proposed) work.
+
+
+\section{Methodology}
+This section describes the details of your exact approach. 
+This section could be optional for the initial proposal, 
+but should contain the details 
+of the baseline for mid-term report, 
+and your approach for your final report. 
+
+\section{Results}
+
+This section describes the results 
+obtained so far, and compares
+it with past approaches. 
+
+\section*{Conclusion}
+Briefly conclude what you have done. Only section in the paper that is in past tense.
+
+\section*{Contributions}
+This section honestly discusses the contributions 
+of each team member. Okay?
+
+
+\bibliography{class_project}
+\bibliographystyle{class_project}
+
+\appendix
+\section{Appendix}
+You may include other additional sections here.
+
+\end{document}

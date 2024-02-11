@@ -114,12 +114,12 @@ If you have any feedback, you can share it (anonymously or otherwise) through th
 
 ## Teaching Staff
 
-1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM; Venue: CDS 208)
-2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM; Venue: CDS 208)
-3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM; Venue: CDS 208)
-4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM; Venue: CDS 208)
-5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM; Venue: CDS 208)
-6. Danish Pruthi (OH: Fridays 10 AM - 11 AM; Venue: CDS 401)
+1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM; Venue: CDS 208; [notify them](mailto:debarpanb@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week) 
+2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM; Venue: CDS 208; [notify them](mailto:kinshukv@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
+3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM; Venue: CDS 208; [notify them](mailto:navreetkaur@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
+4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM; Venue: CDS 208; [notify them](mailto:nicyscaria@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
+5. Rankit Kachroo (OH Wednesdays 4 PM - 5 PM; Venue: CDS 208; [notify them](mailto:rankitk@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
+6. Danish Pruthi (OH: Fridays 10 AM - 11 AM; Venue: CDS 401; [notify them](mailto:danish@hey.com?subject=Will%20visit%20office%20hours%20this%20week))
 
 
 ## Reference Books

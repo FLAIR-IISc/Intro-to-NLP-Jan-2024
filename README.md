@@ -47,8 +47,8 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 1 | No class |  | 
 | Feb 6 | [Neural Nets (RNNs) + Applications](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EWvZtWy1GgRKosWQy3MPl-ABXXpOqA5N2qEGWXbD9jPDig?e=sskRWE)  w/ [annotations](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EVpmEiaW8rdPpPuPTiINNeUBzhS5mtoOVxbo-5tnsez3DA?e=SxRPWU) |  | 
 | Feb 8 | [RNNs, LSTMs & Attention](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EfIr_d_g9qdGpobmcqeZHUUBJkRCkYy-e3AzoaCQAxvlmA?e=jpoNz7)  |  | 
-| Feb 13 | LLMs: post-training (RLHF, adaptation)  | | 
-| Feb 15 | LLMs: scaling laws, applications  |  | 
+| Feb 13 | [Discussion on Research Projects](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZZrDz63SnZIgzAskK_cowEBCw0q0AT6LI2FUp-FZBKlRA?e=TNqBrl)  | | 
+| Feb 15 | Attention & Transformers  |  | 
 | Feb 20 | LLMs: evaluation/benchmarking  |  | 
 | Feb 22  | Structured Prediction: HMMs |  | 
 | Feb 27  | Structured Prediction: HMMs + CRFs | | 

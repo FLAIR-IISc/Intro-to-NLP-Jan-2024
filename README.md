@@ -50,7 +50,7 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 13 | [Discussion on Research Projects](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZZrDz63SnZIgzAskK_cowEBCw0q0AT6LI2FUp-FZBKlRA?e=TNqBrl)  | | 
 | Feb 15 | [Attention & Transformers](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EU0e5RKwMhFOsQshQUb92fQBE_FTAFMLBk0ubVDC-4RfIw?e=aXAgTw)  | Transformers [1](https://arxiv.org/abs/1706.03762), [2](https://nlp.seas.harvard.edu/annotated-transformer/), [J & M Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | 
 | Feb 20 | [Transformers & Pre-training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EdOfpwFwTThDlAI8CxkMDB0BzupeCIwH-2sOHT7PMcVGfA?e=P3Rvyc)  |  | 
-| Feb 22 | LLMs: Post-training & Evaluation  |  | 
+| Feb 22 | [Transformers & Pre-training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  |  | 
 | Feb 27  | Structured Prediction: HMMs |  | 
 | Feb 29  | No Class | | 
 | Mar 5  | Structured Prediction: HMMs + CRFs | | 

@@ -18,6 +18,8 @@
 
 ## Announcements 
 
+- Feb 27, 2024: [Assignment #3](https://colab.research.google.com/drive/1LUbHW5wf2l2WjMTtEg4dc5vij8fOJecG) is out now, due on Mar 22, 16:59 IST.
+
 - Feb 11, 2024: Included the [template for the project](project_template).
 
 - Feb 6, 2024: A few broad project directions are [here](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EVUnxcJFuGVFrS9gZf6CFr4B6ttpBMs8CUI04TO76ABitg?e=9dsLT8). 
@@ -102,7 +104,7 @@ These assignments are meant to be solved individually. For a total of three assi
 **Important dates**: 
 - [Assigment 1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) (Out: Jan 22. Due: Feb 6, 16:59)
 - [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) (Out: Feb 6. Due: Feb 23, 16:59)
-- Assignment 3 (Out: Feb 27. Due: Mar 22, 16:59)
+- [Assignment #3](https://colab.research.google.com/drive/1LUbHW5wf2l2WjMTtEg4dc5vij8fOJecG) (Out: Feb 27. Due: Mar 22, 16:59)
 
 
 ## Discussions & (Anonymous) Feedback

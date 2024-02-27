@@ -53,8 +53,8 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 15 | [Attention & Transformers](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EU0e5RKwMhFOsQshQUb92fQBE_FTAFMLBk0ubVDC-4RfIw?e=aXAgTw)  | Transformers [1](https://arxiv.org/abs/1706.03762), [2](https://nlp.seas.harvard.edu/annotated-transformer/), [J & M Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | 
 | Feb 20 | [Transformers & Pre-training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EdOfpwFwTThDlAI8CxkMDB0BzupeCIwH-2sOHT7PMcVGfA?e=P3Rvyc)  |  | 
 | Feb 22 | [Transformers & Pre-training II](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  |  | 
-| Feb 27  | Structured Prediction: HMMs |  | 
-| Feb 29  | No Class | | 
+| Feb 27  | No Class |  | 
+| Feb 29  | Tokenizers (Class by TAs)  | | 
 | Mar 5  | Structured Prediction: HMMs + CRFs | | 
 | Mar 7  | Structured Prediction: CRFs | | 
 | Mar 12  | Parsing | |
@@ -102,7 +102,7 @@ The three programming assignments will involve building systems for (1) text cla
 These assignments are meant to be solved individually. For a total of three assignments, you would get **three late days**, no extensions will be offered (please don't even ask). There are no restrictions on how the late days can be used, for example, you can use all the three late days for one assignment. If you run out of late days, you can still submit your assignment, but your obtained score would be divided by 2 if submitting after 1 day, and by 4 if submitting after 2 days. No submissions would be entertained after that.
 
 **Important dates**: 
-- [Assigment 1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) (Out: Jan 22. Due: Feb 6, 16:59)
+- [Assignment #1](https://colab.research.google.com/drive/1G3Ku8c2_iag1koSV1GIXtf-dzfHVb5Ws?usp=sharing) (Out: Jan 22. Due: Feb 6, 16:59)
 - [Assignment #2](https://colab.research.google.com/drive/1ajI3TIiQaPn9o1mnxw8RaOvQnKzyEG_Z?usp=sharing) (Out: Feb 6. Due: Feb 23, 16:59)
 - [Assignment #3](https://colab.research.google.com/drive/1LUbHW5wf2l2WjMTtEg4dc5vij8fOJecG) (Out: Feb 27. Due: Mar 22, 16:59)
 

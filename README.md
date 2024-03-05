@@ -55,8 +55,8 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 22 | [Transformers & Pre-training II](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  |  | 
 | Feb 27  | No Class |  | 
 | Feb 29  | Tokenizers (Class by TAs)  | | 
-| Mar 5  | Structured Prediction: HMMs + CRFs | | 
-| Mar 7  | Structured Prediction: CRFs | | 
+| Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | | 
+| Mar 7  | Structured Prediction | | 
 | Mar 12  | Parsing | |
 | Mar 14  | Multilinguality (Guest lecture) | |
 | Mar 19  | Information Extraction & QA | |

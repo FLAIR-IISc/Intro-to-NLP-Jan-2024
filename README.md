@@ -55,7 +55,7 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 22 | [Transformers & Pre-training II](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  | [1](https://arxiv.org/abs/1906.04341), [2](https://arxiv.org/abs/1905.10650) | 
 | Feb 27  | No Class |  | 
 | Feb 29  | Tokenizers (Class by TAs)  | | 
-| Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | GPT [1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [3])(https://arxiv.org/abs/2005.14165) | 
+| Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | GPT [1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [3](https://arxiv.org/abs/2005.14165) | 
 | Mar 7  | [Tagging + HMMs](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ESwtmTzRe61Ju-javj1uJeEBQY0uYFLosSZwo7INQTlezA?e=iAlzuX) | [Notes from Michael Collins](https://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf) | 
 | Mar 12  | CRFs | |
 | Mar 14  | Multilinguality (Guest lecture) | |

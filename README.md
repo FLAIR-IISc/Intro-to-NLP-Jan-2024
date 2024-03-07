@@ -51,13 +51,13 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 8 | [RNNs, LSTMs & Attention](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EfIr_d_g9qdGpobmcqeZHUUBJkRCkYy-e3AzoaCQAxvlmA?e=jpoNz7)  | [J & M Chapter 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf) | 
 | Feb 13 | [Discussion on Research Projects](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZZrDz63SnZIgzAskK_cowEBCw0q0AT6LI2FUp-FZBKlRA?e=TNqBrl)  | | 
 | Feb 15 | [Attention & Transformers](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EU0e5RKwMhFOsQshQUb92fQBE_FTAFMLBk0ubVDC-4RfIw?e=aXAgTw)  | Transformers [1](https://arxiv.org/abs/1706.03762), [2](https://nlp.seas.harvard.edu/annotated-transformer/), [J & M Ch 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) | 
-| Feb 20 | [Transformers & Pre-training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EdOfpwFwTThDlAI8CxkMDB0BzupeCIwH-2sOHT7PMcVGfA?e=P3Rvyc)  |  | 
-| Feb 22 | [Transformers & Pre-training II](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  |  | 
+| Feb 20 | [Transformers & Pre-training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EdOfpwFwTThDlAI8CxkMDB0BzupeCIwH-2sOHT7PMcVGfA?e=P3Rvyc)  | [BERT paper](https://arxiv.org/abs/1810.04805) | 
+| Feb 22 | [Transformers & Pre-training II](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EYn6mvC4-1FNm9JA1MsvOtwByUG07vfIZGhQ6DGGKBe1rg?e=HsKBiZ)  | [1](https://arxiv.org/abs/1906.04341), [2](https://arxiv.org/abs/1905.10650) | 
 | Feb 27  | No Class |  | 
 | Feb 29  | Tokenizers (Class by TAs)  | | 
-| Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | | 
-| Mar 7  | Structured Prediction | | 
-| Mar 12  | Parsing | |
+| Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | GPT [1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [3])(https://arxiv.org/abs/2005.14165) | 
+| Mar 7  | [Tagging + HMMs](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ESwtmTzRe61Ju-javj1uJeEBQY0uYFLosSZwo7INQTlezA?e=iAlzuX) | [Notes from Michael Collins](https://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf) | 
+| Mar 12  | CRFs | |
 | Mar 14  | Multilinguality (Guest lecture) | |
 | Mar 19  | Information Extraction & QA | |
 | Mar 21  | Semantics | |
@@ -116,7 +116,7 @@ If you have any feedback, you can share it (anonymously or otherwise) through th
 
 ## Teaching Staff
 
-1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM; Venue: CDS 208; [notify them](mailto:debarpanb@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week) 
+1. Debarpan Bhattacharya (OH: Thursdays 3 PM - 4 PM; Venue: CDS 208; [notify them](mailto:debarpanb@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week)) 
 2. Kinshuk Vasisht (OH: Wednesdays 10 AM - 11 AM; Venue: CDS 208; [notify them](mailto:kinshukv@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
 3. Navreet Kaur (OH: Tuesdays 4 PM - 5 PM; Venue: CDS 208; [notify them](mailto:navreetkaur@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))
 4. Nicy Scaria (OH: Tuesdays 11:30 AM - 12:30 PM; Venue: CDS 208; [notify them](mailto:nicyscaria@iisc.ac.in?subject=Will%20visit%20office%20hours%20this%20week))

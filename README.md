@@ -57,11 +57,11 @@ The course schedule is as follows. This is subject to changes based on student f
 | Feb 29  | [Tokenization](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EZukCbM3kjtIjOF_KCBmMfEBuiqrF1mAlkZRf7Rhsgl3Zw?e=5XdQXs) (by Rankit Kachroo)  | | 
 | Mar 5  | [Pre-trained Decoders + Post-Training](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EbdKyliqfqBMvmfxai-rhuMB6dwFiqyO2KHI4_C2RiiTpA?e=HcU9yF) | GPT [1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) & [3](https://arxiv.org/abs/2005.14165) | 
 | Mar 7  | [Tagging + HMMs](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ESwtmTzRe61Ju-javj1uJeEBQY0uYFLosSZwo7INQTlezA?e=iAlzuX) | [Notes from Michael Collins](https://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf) | 
-| Mar 12  | CRFs | |
-| Mar 14  | Multilinguality (Guest lecture) | |
-| Mar 19  | Information Extraction & QA | |
-| Mar 21  | Semantics | |
-| Mar 26  | Fairness, biases & ethical considerations | |
+| Mar 12  | CRFs | [A tutorial on CRFs](https://arxiv.org/abs/1011.4088) |
+| Mar 14  | Guest Lecture by Saurabh Garg | |
+| Mar 19  | No class | |
+| Mar 21  | Fairness, biases & ethical considerations | |
+| Mar 26  | Information Extraction & QA | |
 | Mar 28  | Special topics (e.g., watermarking) | |
 | Apr 2  | External guest lecture | |
 | Apr 4  | External guest lecture | |

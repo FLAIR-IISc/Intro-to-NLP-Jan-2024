@@ -63,10 +63,10 @@ The course schedule is as follows. This is subject to changes based on student f
 | Mar 21  | [Fairness, biases & ethics](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/ERqROFkADblOoP9co3H_mZYBIR1Jrhp2fHPEtdfFuMTA8g?e=ZpJ4XR) | |
 | Mar 26  | AI X Community (by Shachi Dave; Google Research) | |
 | Mar 28  | Multilinguality (by Prof. Monojit Choudhury; MBZUAI)) | |
-| Apr 2  | External guest lecture | |
-| Apr 4  | External guest lecture | |
+| Apr 2  | No class | |
+| Apr 4  | [Ethics in AI](https://indianinstituteofscience-my.sharepoint.com/:b:/g/personal/danishp_iisc_ac_in/EaH97qs-ZSVIsDmWGd12x8UBNGPYm5pTxKiNkq3Amppc4A?e=tSVWWg) | |
 | Apr 9  | Poster Session #1 |  |
-| Apr 11  | Poster Session #2 |  |
+| Apr 10  | Poster Session #2 |  |
 | | | | 
 
 ## Course Evaluation

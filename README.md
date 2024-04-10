@@ -92,7 +92,7 @@ Some project directions are availabe [here](https://indianinstituteofscience-my.
 
 - ~~**Feb 13, 16:59**~~ **Feb 15, 16:59** Project proposals due 
 - **Mar 14, 16:59** Mid-term report due
-- **Apr 16, 16:59** Final project reports to be submitted
+- ~~**Apr 16, 16:59**~~ **April 22, 16:59** Final project reports to be submitted
 
 
 ### Assignments 

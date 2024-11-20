@@ -1,6 +1,6 @@
 # Template for Class Projects
 
-Template and style files for the project. 
+Template and style files for the project. NOTE: Please go to to line 96 in `class_project.sty` and update the course number for the course you are using this for. 
 
 ## A Few Tips about Writing
 
